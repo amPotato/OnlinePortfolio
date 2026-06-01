@@ -37,7 +37,7 @@ A playful placeholder link to demonstrate navigation and content layout.
 - JavaScript
 - Godot
 - Game development tools
-- Adobe Photoshop (illustration / creative assets)
+- Adobe Photoshop
 
 ## Notes
 
