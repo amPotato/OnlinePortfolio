@@ -44,7 +44,7 @@ A playful placeholder link to demonstrate navigation and content layout.
 
 ## How to use
 
-1. Open `index.html` in a web browser.
+1. Open `https://ampotato.github.io/OnlinePortfolio/` in a web browser.
 2. Explore the sections for About, Projects, Skills, and Social links.
 3. Scroll to the Artwork gallery and click an image to open the full preview.
 4. Visit external project and social links to learn more.
