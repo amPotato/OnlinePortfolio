@@ -34,10 +34,6 @@ A playful placeholder link to demonstrate navigation and content layout.
 
 - HTML
 - CSS
-- JavaScript
-- Godot
-- Game development tools
-- Adobe Photoshop
 
 ## Notes
 
