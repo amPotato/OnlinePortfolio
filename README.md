@@ -11,7 +11,6 @@ This repository contains a personal portfolio website built with HTML and CSS, p
 - `Home.html` — main portfolio landing page
 - `Home.css` — responsive styling for the portfolio layout
 - `img/` — artwork image files used by the gallery
-- `Pong/` — exported Godot Pong demo files
 
 ## Features
 
