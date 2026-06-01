@@ -49,7 +49,4 @@ A playful placeholder link to demonstrate navigation and content layout.
 3. Scroll to the Artwork gallery and click an image to open the full preview.
 4. Visit external project and social links to learn more.
 
----
-
-Feel free to customize this README with additional project descriptions, screenshots, or deployment instructions.
 
