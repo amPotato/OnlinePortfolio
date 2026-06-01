@@ -8,8 +8,8 @@ This repository contains a personal portfolio website built with HTML and CSS, p
 
 ### Included content
 
-- `Home.html` — main portfolio landing page
-- `Home.css` — responsive styling for the portfolio layout
+- `index.html` — main portfolio landing page
+- `index.css` — responsive styling for the portfolio layout
 - `img/` — artwork image files used by the gallery
 
 ## Features
@@ -48,7 +48,7 @@ A playful placeholder link to demonstrate navigation and content layout.
 
 ## How to use
 
-1. Open `Home.html` in a web browser.
+1. Open `index.html` in a web browser.
 2. Explore the sections for About, Projects, Skills, and Social links.
 3. Scroll to the Artwork gallery and click an image to open the full preview.
 4. Visit external project and social links to learn more.
